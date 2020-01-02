@@ -28,6 +28,7 @@ $ python3 keylogger.py
 * **bin0x00** - For initializing the this project.
 * **moses-palmer** - For making the [pynput](https://github.com/moses-palmer/pynput)
   * More acknowledgements at moses-palmer pynput repo
+* **nitratine.net** and **theembeddedlab.com** for making amazing guides of which this repo is based on :D
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
